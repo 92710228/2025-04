@@ -33,11 +33,11 @@ int main(void)
 			OLED_ShowChinese(72,0,14,16,1); //程
 			OLED_ShowChinese(90,0,20,16,1); //项
 			OLED_ShowChinese(108,0,21,16,1); //目
-			OLED_ShowChinese(0,36,15,16,0);//刘
-			OLED_ShowChinese(18,36,16,16,0);//建
-			OLED_ShowChinese(36,36,17,16,0);//伟
-			OLED_ShowChinese(54,36,18,16,1);//小
-			OLED_ShowChinese(72,36,19,16,1);//组
+			OLED_ShowChinese(0,36,15,16,0);
+			OLED_ShowChinese(18,36,16,16,0);
+			OLED_ShowChinese(36,36,17,16,0);
+			OLED_ShowChinese(54,36,18,16,1);
+			OLED_ShowChinese(72,36,19,16,1);
 	  OLED_Refresh();
 		//低电平开启继电器
     while(1)
