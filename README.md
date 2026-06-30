@@ -1,6 +1,9 @@
 # 2025-04
 智能家居设计与开发（联网上云版）
-
+![image](https://github.com/92710228/2025-04/blob/main/3.jpg)
 该智能家居是可以通过STM32f103系列实现对环境的温度，湿度，二氧化碳，一氧化碳等有毒气体数据实时读取，并且实时反馈到云端，可溯源。如果气体超出安全范围，语言播报提醒客户，线路通过PCB设计打板，各个模块互联。
-
+![image](https://github.com/92710228/2025-04/blob/main/2.jpg)
 项目物料：STM32f103，ISD1820,OLED,MQ-2,DHT11,ESP8266-1S,BUZZER,直流有刷减速电机,外接喇叭，外接电源......
+![image](https://github.com/92710228/2025-04/blob/main/1.jpg)
+
+![image](https://github.com/92710228/2025-04/blob/main/4.jpg)
